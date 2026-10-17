@@ -1,2 +1,3 @@
-# linux-production-server
-I've set up a Linux file server the way an IT person would for a podcast team. Each show gets folders, producers and editors get different access, and I produce reports proving it works.
+# Linux Production Server
+
+A shared file server for a podcast production team, built with The Linux Command Line, chapters 1-9.
