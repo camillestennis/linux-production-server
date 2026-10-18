@@ -1,0 +1,5 @@
+uid=1001(janet) gid=1002(janet) groups=1002(janet),1005(producers),1006(editors)
+uid=1002(tony) gid=1003(tony) groups=1003(tony),1006(editors)
+uid=1003(guest) gid=1004(guest) groups=1004(guest)
+producers:x:1005:janet
+editors:x:1006:janet,tony

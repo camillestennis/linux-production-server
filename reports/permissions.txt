@@ -1,0 +1,142 @@
+/srv/production:
+total 16
+drwxrws--- 2 root      producers 4096 Oct 18 05:15 archive
+drwxrwsr-x 5 root      editors   4096 Oct 17 17:12 assets
+lrwxrwxrwx 1 codespace codespace   21 Oct 17 17:23 current -> shows/very-alpha/ep03
+drwxrws--- 4 root      editors   4096 Oct 17 17:12 shows
+drwxrwsr-x 2 root      producers 4096 Oct 17 17:15 templates
+
+/srv/production/archive:
+total 0
+-rw-r--r-- 1 janet producers 0 Oct 18 05:15 ep00-final.wav
+
+/srv/production/assets:
+total 12
+drwxrwsr-x 2 root editors 4096 Oct 17 17:12 artwork
+drwxrwsr-x 2 root editors 4096 Oct 17 17:12 music
+drwxrwsr-x 2 root editors 4096 Oct 17 17:12 sfx
+
+/srv/production/assets/artwork:
+total 0
+
+/srv/production/assets/music:
+total 0
+
+/srv/production/assets/sfx:
+total 0
+
+/srv/production/shows:
+total 8
+drwxrws--- 5 root editors 4096 Oct 17 17:12 race-sleeper
+drwxrws--- 5 root editors 4096 Oct 17 17:12 very-alpha
+
+/srv/production/shows/race-sleeper:
+total 12
+drwxrws--- 5 root editors 4096 Oct 17 17:12 ep01
+drwxrws--- 5 root editors 4096 Oct 17 17:12 ep02
+drwxrws--- 5 root editors 4096 Oct 17 17:12 ep03
+
+/srv/production/shows/race-sleeper/ep01:
+total 12
+drwxrws--- 2 root editors 4096 Oct 17 17:12 edit
+drwxrws--- 2 root editors 4096 Oct 17 17:12 final
+drwxrws--- 2 root editors 4096 Oct 17 17:12 raw
+
+/srv/production/shows/race-sleeper/ep01/edit:
+total 0
+
+/srv/production/shows/race-sleeper/ep01/final:
+total 0
+
+/srv/production/shows/race-sleeper/ep01/raw:
+total 0
+
+/srv/production/shows/race-sleeper/ep02:
+total 12
+drwxrws--- 2 root editors 4096 Oct 17 17:12 edit
+drwxrws--- 2 root editors 4096 Oct 17 17:12 final
+drwxrws--- 2 root editors 4096 Oct 17 17:12 raw
+
+/srv/production/shows/race-sleeper/ep02/edit:
+total 0
+
+/srv/production/shows/race-sleeper/ep02/final:
+total 0
+
+/srv/production/shows/race-sleeper/ep02/raw:
+total 0
+
+/srv/production/shows/race-sleeper/ep03:
+total 12
+drwxrws--- 2 root editors 4096 Oct 17 17:12 edit
+drwxrws--- 2 root editors 4096 Oct 17 17:12 final
+drwxrws--- 2 root editors 4096 Oct 17 17:12 raw
+
+/srv/production/shows/race-sleeper/ep03/edit:
+total 0
+
+/srv/production/shows/race-sleeper/ep03/final:
+total 0
+
+/srv/production/shows/race-sleeper/ep03/raw:
+total 0
+
+/srv/production/shows/very-alpha:
+total 12
+drwxrws--- 5 root editors 4096 Oct 17 17:12 ep01
+drwxrws--- 5 root editors 4096 Oct 17 17:12 ep02
+drwxrws--- 5 root editors 4096 Oct 17 17:12 ep03
+
+/srv/production/shows/very-alpha/ep01:
+total 12
+drwxrws--- 2 root editors 4096 Oct 17 17:21 edit
+drwxrws--- 2 root editors 4096 Oct 17 17:12 final
+drwxrws--- 2 root editors 4096 Oct 17 17:14 raw
+
+/srv/production/shows/very-alpha/ep01/edit:
+total 0
+-rw-rw---- 1 root editors 0 Oct 17 17:17 ep01-notes.txt
+
+/srv/production/shows/very-alpha/ep01/final:
+total 0
+
+/srv/production/shows/very-alpha/ep01/raw:
+total 0
+-rw-rw---- 1 root editors 0 Oct 17 17:14 guest-track.wav
+-rw-rw---- 1 root editors 0 Oct 17 17:14 host-track.wav
+
+/srv/production/shows/very-alpha/ep02:
+total 12
+drwxrws--- 2 root editors 4096 Oct 18 05:11 edit
+drwxrws--- 2 root editors 4096 Oct 17 17:12 final
+drwxrws--- 2 root editors 4096 Oct 17 17:12 raw
+
+/srv/production/shows/very-alpha/ep02/edit:
+total 4
+-rw-r--r-- 1 tony editors 0 Oct 18 05:10 tony-default.txt
+-rw-rw-r-- 1 tony editors 5 Oct 18 05:12 tony-shared.txt
+
+/srv/production/shows/very-alpha/ep02/final:
+total 0
+
+/srv/production/shows/very-alpha/ep02/raw:
+total 0
+
+/srv/production/shows/very-alpha/ep03:
+total 12
+drwxrws--- 2 root editors 4096 Oct 17 17:12 edit
+drwxrws--- 2 root editors 4096 Oct 17 17:12 final
+drwxrws--- 2 root editors 4096 Oct 17 17:12 raw
+
+/srv/production/shows/very-alpha/ep03/edit:
+total 0
+
+/srv/production/shows/very-alpha/ep03/final:
+total 0
+
+/srv/production/shows/very-alpha/ep03/raw:
+total 0
+
+/srv/production/templates:
+total 0
+-rw-rw-r-- 1 root producers 0 Oct 17 17:15 show-notes.txt

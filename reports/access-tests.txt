@@ -1,0 +1,13 @@
+== guest reads shows (expect DENIED) ==
+ls: cannot open directory '/srv/production/shows': Permission denied
+== tony reads shows (expect OK) ==
+race-sleeper
+very-alpha
+== tony reads archive (expect DENIED) ==
+ls: cannot open directory '/srv/production/archive': Permission denied
+== janet writes to archive (expect OK) ==
+ep00-final.wav
+== guest reads templates (expect OK) ==
+show-notes.txt
+== guest writes to templates (expect DENIED) ==
+touch: cannot touch '/srv/production/templates/guest.txt': Permission denied
