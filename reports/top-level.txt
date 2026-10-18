@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 2 codespace codespace 4096 Oct 17 17:12 archive
+drwxr-xr-x 5 codespace codespace 4096 Oct 17 17:12 assets
+lrwxrwxrwx 1 codespace codespace   21 Oct 17 17:23 current -> shows/very-alpha/ep03
+drwxr-xr-x 4 codespace codespace 4096 Oct 17 17:12 shows
+drwxr-xr-x 2 codespace codespace 4096 Oct 17 17:15 templates
